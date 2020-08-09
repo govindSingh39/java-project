@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Guru Registration Form</title>
+<title> Dev  Registration Form</title>
 </head>
 <body>
-<h1>Guru Register Form</h1>
+<h1> Dev Register Form</h1>
 <form action="guru_register" method="post">
-			<table style="with: 50%">
+			<table style="with: 100%">
 				<tr>
-					<td>First Name</td>
+					<td style="font:25px bold blue"> First Name</td>
 					<td><input type="text" name="first_name" /></td>
 				</tr>
 				<tr>
