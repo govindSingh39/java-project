@@ -5,9 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title> Dev  Registration Form</title>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 </head>
 <body>
-<h1> Dev Register Form</h1>
+<h1 > Dev Register Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 100%">
 				<tr>
